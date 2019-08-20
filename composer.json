@@ -1,0 +1,15 @@
+{
+    "name": "ervan23/php-kafka-example",
+    "description": "PHP-Kafka example for consumer, produces (Async and Sync)",
+    "type": "project",
+    "license": "Free License",
+    "authors": [
+        {
+            "name": "Ervan Prastyanto",
+            "email": "ervanprastyanto@gmail.com"
+        }
+    ],
+    "require": {
+        "nmred/kafka-php": "v0.2.0.8"
+    }
+}
